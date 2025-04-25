@@ -58,7 +58,14 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia e movida pe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="java" 
+    title="java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -101,6 +108,7 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia e movida pe
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="400"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Laysa-Gomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -109,7 +117,7 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia e movida pe
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width="500"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysa-Gomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
