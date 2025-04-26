@@ -1,5 +1,5 @@
 ## Laysa Gomes
-**`Análise de Dados | Desenvolvimento Front-end | Quality Assurence`**<br>
+**`Análise de Dados | Desenvolvimento Front-end | Quality Assurence`**<br><br>
 Sou estudante de Ciência da Computação, apaixonada por tecnologia e movida pela vontade de aprender e transformar ideias em soluções. Atualmente, estou explorando o universo da Ciência de Dados, além de desenvolver projetos com foco em análise, visualização de dados e automação.
 
 <div> 
